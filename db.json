@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "firstName": "Graham",
+      "age": 22,
+      "id": "CvgeaoE"
+    },
+    {
+      "firstName": "Katie",
+      "age": 22,
+      "id": "aGpcJUm"
+    },
+    {
+      "firstName": "bill",
+      "age": 58,
+      "id": "oEaPFK3"
+    },
+    {
+      "firstName": "bill",
+      "age": 58,
+      "id": "EMBcc-q"
+    },
+    {
+      "firstName": "bill",
+      "age": 58,
+      "companyId": "1",
+      "id": "x1xlGSp"
+    },
+    {
+      "firstName": "bill",
+      "age": 58,
+      "companyId": "1",
+      "id": "H85BHkS"
+    },
+    {
+      "firstName": "its updated",
+      "age": 45,
+      "companyId": "2",
+      "id": "wCPl5np"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
+}
